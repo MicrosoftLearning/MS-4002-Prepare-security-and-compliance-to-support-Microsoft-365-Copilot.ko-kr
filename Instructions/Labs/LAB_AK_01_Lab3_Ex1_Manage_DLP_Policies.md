@@ -131,7 +131,7 @@ Adatum의 Microsoft 365 관리자인 Holly Dickson은 최근 Microsoft 365의 **
 
 이 설정을 해제하려면 Microsoft Intune 관리 센터에서 Office 앱 대한 정책을 만들어야 합니다. 생성하는 정책에서 **Kindle로 보내기 끄기** 설정을 정책에 추가한 다음 이 설정을 사용합니다. 정책에서 이 설정을 사용하도록 설정하면 정책 생성 완료 시 **Kindle로 보내기** 기능이 꺼집니다. 이 시점에서 사용자는 더 이상 Word 문서를 Kindle 라이브러리로 보낼 수 없습니다.
 
-**참고:** 이 문제는 실제 Microsoft 365 배포에서 해결해야 하는 문제입니다. 이 **Kindle로 보내기** 기능에 대한 자세한 내용은 https://support.microsoft.com/en-us/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273을(를) 참조합니다.
+**참고:** 이 문제는 실제 Microsoft 365 배포에서 해결해야 하는 문제입니다. 이 **Kindle로 보내기** 기능에 대한 자세한 내용은 https://support.microsoft.com/office/send-to-kindle-a53d880d-9952-4bf1-abc5-6bce8db5a273을(를) 참조합니다.
 
 1. LON-CL1의 Edge 브라우저에서 여전히 Microsoft 365에 **Holly Dickson**으로 로그인한 상태여야 합니다. 
 
