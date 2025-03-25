@@ -13,7 +13,7 @@ Adatum 파일럿 프로젝트의 일부로 민감도 레이블을 구현하려�
 
     LON-CL1에는 계속 로컬 **adatum\administrator** 계정으로 로그인되어 있고, Edge 브라우저에서는 Microsoft 365에 계속 **Holly Dickson**으로 로그인되어 있어야 합니다. 
 
-2. **Microsoft Edge**에서 새 탭을 열고 주소 표시줄에 다음 URL을 입력합니다. **https://www.microsoft.com/en-us/download/confirmation.aspx?id=53018**  <br/>
+2. **Microsoft Edge**에서 새 탭을 열고 주소 표시줄에 다음 URL을 입력합니다. **https://www.microsoft.com/download/details.aspx?id=53018**  <br/>
 
     그러면 **Microsoft Purview Information Protection 클라이언트** 다운로드가 시작됩니다.
 
